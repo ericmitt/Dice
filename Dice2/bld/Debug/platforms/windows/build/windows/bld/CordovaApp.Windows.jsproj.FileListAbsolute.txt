@@ -1,0 +1,15 @@
+C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\build\windows\Debug\AnyCPU\ReverseMap\resources.pri
+C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\build\windows\Debug\AnyCPU\AppxManifest.xml
+C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\build\windows\Debug\AnyCPU\CordovaApp.Windows.build.appxrecipe
+C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\build\windows\bld\priconfig.xml
+C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\build\windows\bld\priconfig.xml.intermediate
+C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\build\windows\bld\layout.resfiles
+C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\build\windows\bld\layout.resfiles.intermediate
+C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\build\windows\bld\resources.resfiles
+C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\build\windows\bld\resources.resfiles.intermediate
+C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\build\windows\bld\pri.resfiles
+C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\build\windows\bld\pri.resfiles.intermediate
+C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\build\windows\bld\qualifiers.txt
+C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\build\windows\bld\qualifiers.txt.intermediate
+C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\build\windows\bld\MultipleQualifiersPerDimensionFound.txt
+C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\build\windows\bld\ProjectArchitectures.txt

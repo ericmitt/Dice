@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MININT-HVD7UST</Machine>
+    <WindowsUser>ericmitt</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>em.demos.dice</PackageIdentityName>
+    <IntermediateOutputPath>C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\build\windows\bld\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>2E5866BA48D85370FEC671E970178C368B63DCECA223E622D6128FADEB2F37C5</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>em.demos.dice_1.0.0.0_neutral__54dbk1tt7zbhy</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>em.demos.dice_54dbk1tt7zbhy!em.demos.dice</RegisteredUserModeAppID>
+    <RegisteredPackageID>em.demos.dice</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Apache Cordova Temp Cert</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\build\windows\Debug\AnyCPU\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-06T00:39:01.744</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-28T22:42:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-28T22:42:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-28T22:42:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-28T22:42:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-05T22:52:36.224</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\images\SplashScreen.scale-140.png">
+      <PackagePath>images\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-06T00:05:44.560</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <Modified>2014-12-05T22:38:24.259</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\images\Square150x150Logo.scale-140.png">
+      <PackagePath>images\Square150x150Logo.scale-140.png</PackagePath>
+      <Modified>2014-12-06T00:34:05.101</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+      <Modified>2014-12-05T22:41:27.778</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\images\Square44x44Logo.scale-140.png">
+      <PackagePath>images\Square44x44Logo.scale-140.png</PackagePath>
+      <Modified>2014-12-06T00:10:39.094</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\images\Square71x71Logo.scale-100.png">
+      <PackagePath>images\Square71x71Logo.scale-100.png</PackagePath>
+      <Modified>2014-12-05T22:40:53.668</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\images\Square71x71Logo.scale-140.png">
+      <PackagePath>images\Square71x71Logo.scale-140.png</PackagePath>
+      <Modified>2014-12-05T23:54:32.447</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-05T22:41:55.713</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\images\StoreLogo.scale-140.png">
+      <PackagePath>images\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-06T00:37:45.654</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <Modified>2014-12-05T22:45:55.272</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\images\Wide310x150Logo.scale-140.png">
+      <PackagePath>images\Wide310x150Logo.scale-140.png</PackagePath>
+      <Modified>2014-12-06T00:35:58.487</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\www\assets\dice.png">
+      <PackagePath>www\assets\dice.png</PackagePath>
+      <Modified>2014-12-05T22:02:40.996</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\www\assets\amiga.jpg">
+      <PackagePath>www\assets\amiga.jpg</PackagePath>
+      <Modified>2014-12-05T22:02:40.992</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\www\assets\Dice1.jpg">
+      <PackagePath>www\assets\Dice1.jpg</PackagePath>
+      <Modified>2014-12-05T22:02:41.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\www\assets\stars2.jpg">
+      <PackagePath>www\assets\stars2.jpg</PackagePath>
+      <Modified>2014-12-05T22:02:41.003</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\www\assets\tapis.jpg">
+      <PackagePath>www\assets\tapis.jpg</PackagePath>
+      <Modified>2014-12-05T22:02:41.008</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\www\assets\tapis2.jpg">
+      <PackagePath>www\assets\tapis2.jpg</PackagePath>
+      <Modified>2014-12-05T22:02:41.012</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\www\assets\wood.jpg">
+      <PackagePath>www\assets\wood.jpg</PackagePath>
+      <Modified>2014-12-05T22:02:41.015</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\www\assets\Dice.babylon">
+      <PackagePath>www\assets\Dice.babylon</PackagePath>
+      <Modified>2014-12-05T22:02:40.995</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\www\cordova.js">
+      <PackagePath>www\cordova.js</PackagePath>
+      <Modified>2014-12-05T22:02:41.161</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\www\cordova_plugins.js">
+      <PackagePath>www\cordova_plugins.js</PackagePath>
+      <Modified>2014-12-05T22:02:41.196</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\www\plugins\org.apache.cordova.device-motion\src\windows\AccelerometerProxy.js">
+      <PackagePath>www\plugins\org.apache.cordova.device-motion\src\windows\AccelerometerProxy.js</PackagePath>
+      <Modified>2014-12-05T22:02:41.198</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\www\plugins\org.apache.cordova.device-motion\www\Acceleration.js">
+      <PackagePath>www\plugins\org.apache.cordova.device-motion\www\Acceleration.js</PackagePath>
+      <Modified>2014-12-05T22:02:41.202</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\www\plugins\org.apache.cordova.device-motion\www\accelerometer.js">
+      <PackagePath>www\plugins\org.apache.cordova.device-motion\www\accelerometer.js</PackagePath>
+      <Modified>2014-12-05T22:02:41.203</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\www\scripts\babylon.1.14-debug.js">
+      <PackagePath>www\scripts\babylon.1.14-debug.js</PackagePath>
+      <Modified>2014-12-05T22:02:41.299</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\www\scripts\hand-1.3.8.js">
+      <PackagePath>www\scripts\hand-1.3.8.js</PackagePath>
+      <Modified>2014-12-05T22:02:41.099</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\www\scripts\index.js">
+      <PackagePath>www\scripts\index.js</PackagePath>
+      <Modified>2014-12-05T22:02:41.105</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\www\scripts\Oimo.js">
+      <PackagePath>www\scripts\Oimo.js</PackagePath>
+      <Modified>2014-12-05T22:02:41.331</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\www\scripts\platformOverrides.js">
+      <PackagePath>www\scripts\platformOverrides.js</PackagePath>
+      <Modified>2014-12-05T22:02:41.142</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\www\scripts\winstore-jscompat.js">
+      <PackagePath>www\scripts\winstore-jscompat.js</PackagePath>
+      <Modified>2014-12-05T22:02:41.143</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\www\css\index.css">
+      <PackagePath>www\css\index.css</PackagePath>
+      <Modified>2014-12-05T22:02:41.018</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\www\index.html">
+      <PackagePath>www\index.html</PackagePath>
+      <Modified>2014-12-05T23:57:42.409</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\www\Project_Readme.html">
+      <PackagePath>www\Project_Readme.html</PackagePath>
+      <Modified>2014-12-05T22:02:41.025</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\config.xml">
+      <PackagePath>config.xml</PackagePath>
+      <Modified>2014-12-05T22:02:41.178</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\temp\CordovaTests\Dice2\Dice2\bld\Debug\platforms\windows\build\windows\Debug\AnyCPU\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-12-06T00:39:01.384</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

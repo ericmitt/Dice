@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="em.demos.dice" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>240</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="config.xml" uri="ms-resource://em.demos.dice/Files/config.xml">
+				<Candidate type="Path">
+					<Value>config.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="images">
+				<NamedResource name="SplashScreen.png" uri="ms-resource://em.demos.dice/Files/images/SplashScreen.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\SplashScreen.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://em.demos.dice/Files/images/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Square150x150Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://em.demos.dice/Files/images/Square44x44Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Square44x44Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://em.demos.dice/Files/images/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Square71x71Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://em.demos.dice/Files/images/StoreLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\StoreLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://em.demos.dice/Files/images/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Wide310x150Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="www">
+				<NamedResource name="cordova.js" uri="ms-resource://em.demos.dice/Files/www/cordova.js">
+					<Candidate type="Path">
+						<Value>www\cordova.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="cordova_plugins.js" uri="ms-resource://em.demos.dice/Files/www/cordova_plugins.js">
+					<Candidate type="Path">
+						<Value>www\cordova_plugins.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="index.html" uri="ms-resource://em.demos.dice/Files/www/index.html">
+					<Candidate type="Path">
+						<Value>www\index.html</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Project_Readme.html" uri="ms-resource://em.demos.dice/Files/www/Project_Readme.html">
+					<Candidate type="Path">
+						<Value>www\Project_Readme.html</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="assets">
+					<NamedResource name="amiga.jpg" uri="ms-resource://em.demos.dice/Files/www/assets/amiga.jpg">
+						<Candidate type="Path">
+							<Value>www\assets\amiga.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Dice.babylon" uri="ms-resource://em.demos.dice/Files/www/assets/Dice.babylon">
+						<Candidate type="Path">
+							<Value>www\assets\Dice.babylon</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="dice.png" uri="ms-resource://em.demos.dice/Files/www/assets/dice.png">
+						<Candidate type="Path">
+							<Value>www\assets\dice.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Dice1.jpg" uri="ms-resource://em.demos.dice/Files/www/assets/Dice1.jpg">
+						<Candidate type="Path">
+							<Value>www\assets\Dice1.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="stars2.jpg" uri="ms-resource://em.demos.dice/Files/www/assets/stars2.jpg">
+						<Candidate type="Path">
+							<Value>www\assets\stars2.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="tapis.jpg" uri="ms-resource://em.demos.dice/Files/www/assets/tapis.jpg">
+						<Candidate type="Path">
+							<Value>www\assets\tapis.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="tapis2.jpg" uri="ms-resource://em.demos.dice/Files/www/assets/tapis2.jpg">
+						<Candidate type="Path">
+							<Value>www\assets\tapis2.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="wood.jpg" uri="ms-resource://em.demos.dice/Files/www/assets/wood.jpg">
+						<Candidate type="Path">
+							<Value>www\assets\wood.jpg</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="css">
+					<NamedResource name="index.css" uri="ms-resource://em.demos.dice/Files/www/css/index.css">
+						<Candidate type="Path">
+							<Value>www\css\index.css</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="plugins">
+					<ResourceMapSubtree name="org.apache.cordova.device-motion">
+						<ResourceMapSubtree name="src">
+							<ResourceMapSubtree name="windows">
+								<NamedResource name="AccelerometerProxy.js" uri="ms-resource://em.demos.dice/Files/www/plugins/org.apache.cordova.device-motion/src/windows/AccelerometerProxy.js">
+									<Candidate type="Path">
+										<Value>www\plugins\org.apache.cordova.device-motion\src\windows\AccelerometerProxy.js</Value>
+									</Candidate>
+								</NamedResource>
+							</ResourceMapSubtree>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="www">
+							<NamedResource name="Acceleration.js" uri="ms-resource://em.demos.dice/Files/www/plugins/org.apache.cordova.device-motion/www/Acceleration.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.device-motion\www\Acceleration.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="accelerometer.js" uri="ms-resource://em.demos.dice/Files/www/plugins/org.apache.cordova.device-motion/www/accelerometer.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.device-motion\www\accelerometer.js</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="scripts">
+					<NamedResource name="babylon.1.14-debug.js" uri="ms-resource://em.demos.dice/Files/www/scripts/babylon.1.14-debug.js">
+						<Candidate type="Path">
+							<Value>www\scripts\babylon.1.14-debug.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="hand-1.3.8.js" uri="ms-resource://em.demos.dice/Files/www/scripts/hand-1.3.8.js">
+						<Candidate type="Path">
+							<Value>www\scripts\hand-1.3.8.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="index.js" uri="ms-resource://em.demos.dice/Files/www/scripts/index.js">
+						<Candidate type="Path">
+							<Value>www\scripts\index.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Oimo.js" uri="ms-resource://em.demos.dice/Files/www/scripts/Oimo.js">
+						<Candidate type="Path">
+							<Value>www\scripts\Oimo.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="platformOverrides.js" uri="ms-resource://em.demos.dice/Files/www/scripts/platformOverrides.js">
+						<Candidate type="Path">
+							<Value>www\scripts\platformOverrides.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="winstore-jscompat.js" uri="ms-resource://em.demos.dice/Files/www/scripts/winstore-jscompat.js">
+						<Candidate type="Path">
+							<Value>www\scripts\winstore-jscompat.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

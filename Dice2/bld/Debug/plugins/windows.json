@@ -1,0 +1,15 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "org.apache.cordova.device-motion": {
+            "PACKAGE_NAME": "em.demos.dice"
+        }
+    },
+    "dependent_plugins": {}
+}
