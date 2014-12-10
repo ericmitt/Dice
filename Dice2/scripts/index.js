@@ -107,8 +107,11 @@
             d.scaling = new BABYLON.Vector3(5, 5, 5);
             d.material.emissiveColor = new BABYLON.Color3(0.2, 0.2, 0.2);
             d.isVisible = false;
+            d.setPhysicsState(BABYLON.PhysicsEngine.BoxImpostor, { mass: 4 });
             dice = d;
         });
+
+
 
         BABYLON.SceneLoader.ImportMesh("", "assets/", "Dice.babylon", scene, function (newMeshes, particleSystems, skeletons) {
             var d = newMeshes[0];
@@ -117,6 +120,7 @@
             d.scaling = new BABYLON.Vector3(5,5,5);
             d.material.emissiveColor = new BABYLON.Color3(0.2, 0.2, 0.2);
             d.isVisible = false;
+            d.setPhysicsState(BABYLON.PhysicsEngine.BoxImpostor, { mass: 1 });
             dice2 = d;
         });
 
@@ -181,7 +185,8 @@
         
 
         // Physics
-        scene.enablePhysics(null, new BABYLON.OimoJSPlugin(new BABYLON.Vector3(0, -9.81, 0)));
+        scene.enablePhysics(null, new BABYLON.OimoJSPlugin(new BABYLON.Vector3(0, -90.81, 0)));
+        scene.setGravity(new BABYLON.Vector3(0, -90, 0));
 
 
         // Physics
