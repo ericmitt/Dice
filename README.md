@@ -1,7 +1,7 @@
 Dice
 ====
 
-Dice projet, 3D scene with Babylon JS, with Dices
+Dice projet, 3D scene with Babylon JS
 Use accelerometer
 
 Last version 1.0.0.1
